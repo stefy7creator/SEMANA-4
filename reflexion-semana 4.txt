@@ -1,0 +1,9 @@
+Es fundamental que las comunidades e iniciativas ciudadanas construyan sus propias herramientas tecnológicas con software abierto como Node.js 
+porque esto les otorga soberanía digital y autonomía. Al no depender de grandes corporaciones ni de licencias costosas, 
+los ciudadanos pueden adaptar los sistemas exactamente a sus realidades, problemas y necesidades locales. 
+Las tecnologías abiertas democratizan el acceso al conocimiento, permitiendo que cualquier persona con internet aprenda, 
+colabore y mejore las plataformas existentes de manera comunitaria. Además, al crear herramientas propias,
+se garantiza una mayor transparencia en el manejo de datos públicos y colectivos, asegurando la privacidad de los usuarios.
+Esto fomenta la innovación social desde abajo hacia arriba, transformando a los ciudadanos de simples consumidores de tecnología a creadores activos. 
+En conclusión,el código abierto es una herramienta de empoderamiento social que
+permite resolver problemáticas comunitarias de forma eficiente, económica y colaborativa.
